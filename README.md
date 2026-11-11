@@ -2,7 +2,7 @@
 
 *A practical framework for keeping complex research understandable, directed, and testable.*
 
-**Version 0.1 (November 2026) · Public draft** · 한국어: [KOREAN.md](KOREAN.md)
+**Version 0.2 (November 2026) · Public draft** · 한국어: [KOREAN.md](KOREAN.md)
 
 ## Why this project exists
 
@@ -27,7 +27,7 @@ This is not a claim that AI should be passive, or that complex problems can be m
 7. **Require human approval to change direction** — New avenues may be suggested, but they do not become the investigation without approval.
 8. **Preserve external working memory** — Record the current question, scope, findings, unresolved issues, deferred topics, and next decision.
 9. **Validate in the real world** — A plausible explanation or promising backtest is not proof. Test out of sample and account for costs and operational constraints where relevant.
-10. **Stop when understanding is lost** — If the human can no longer explain what is being tested and why, pause and restore clarity before expanding.
+10. **Stop when understanding is lost** — If the human can no longer explain what is being tested and why, pause and restore clarity before expanding. Plain language is a control mechanism, not a courtesy: if the human cannot follow the explanation, the AI's work is not finished.
 
 ## A simple working loop
 

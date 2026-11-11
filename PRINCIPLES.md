@@ -1,6 +1,6 @@
 # Principles for Human-Led, AI-Assisted Research
 
-*Version 0.1. The numbering matches the ten core principles in [README.md](README.md).*
+*Version 0.2. The numbering matches the ten core principles in [README.md](README.md).*
 
 ## 1. Human-led direction
 
@@ -107,6 +107,10 @@ Before moving on, the human should be able to state, in their own words:
 - why the next step follows.
 
 If this cannot be done, reduce the explanation, revisit the evidence, or pause.
+
+**Plain language is a control mechanism, not a courtesy.** Each technical term, statistic, or abbreviation comes with a one-line plain explanation beside it. State the conclusion first, then why. If the human cannot follow the explanation, the AI's work is not finished.
+
+A person who cannot understand a result cannot direct the next step. In an unfamiliar field, this is how direction quietly passes to the AI (see Cases 1 and 7 in [CASES.md](CASES.md)).
 
 ---
 
